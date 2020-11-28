@@ -1,6 +1,6 @@
-*{
-	margin: 0px;
-	padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
 
 #hero-box {
@@ -23,23 +23,23 @@
 }
 
 .hero-container {
-	width: 1349px;
-  	height: 662px;
-	margin: auto;
-	display: flex;
-	flex-wrap: wrap;
-	box-sizing: border-box;
-	justify-content: center;
+  width: 1349px;
+  height: 662px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  justify-content: center;
 }
 
 .hero-items-left {
-	width: 55%;
-	box-sizing: border-box;
+  width: 55%;
+  box-sizing: border-box;
 }
 
 .hero-items-right {
-	width: 45%;
-	box-sizing: border-box;
+  width: 45%;
+  box-sizing: border-box;
 }
 
 .Blog-Mudik-Hero {
@@ -56,8 +56,8 @@
   font-weight: bold;
 }
 
-.download-hero{
-	font-family: SourceSansPro;
+.download-hero {
+  font-family: SourceSansPro;
   font-size: 14px;
   font-weight: 600;
   color: #432b87;
@@ -89,16 +89,17 @@
   opacity: 0.8;
   line-height: 1.67;
   font-family: SourceSansPro;
-  font-size: 18px;;
+  font-size: 18px;
+  ;
   color: rgba(57, 53, 69, 0.8);
 }
 
-.hero-items-right .container{
-	width: 449px;
-	margin-top: 211px;
-	margin-left: 27px;
-	box-sizing: border-box;
-	position: absolute;
+.hero-items-right .container {
+  width: 449px;
+  margin-top: 211px;
+  margin-left: 27px;
+  box-sizing: border-box;
+  position: absolute;
 }
 
 .play-btn-hero {
@@ -108,7 +109,7 @@
   border-radius: 4px;
   background-color: #6cbb01;
   border-color: transparent;
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .play {
@@ -161,7 +162,7 @@
   cursor: pointer;
 }
 
-.download-nav{
+.download-nav {
   height: 9px;
   font-family: SourceSansPro;
   font-size: 14px;
@@ -169,7 +170,7 @@
   color: #ffffff;
 }
 
-#about-product{
+#about-product {
   width: 1349px;
   height: 488px;
   background-color: #ffffff;
@@ -188,11 +189,11 @@
   grid-template-columns: repeat(2, 1fr);
 }
 
-.left-about{
+.left-about {
   margin-left: 89px;
 }
 
-.right-about{
+.right-about {
   margin-top: 91px;
   margin-right: 108px;
 }
@@ -222,7 +223,7 @@
   color: rgba(57, 53, 69, 0.8);
 }
 
-#service-product{
+#service-product {
   width: 1349px;
   height: 488px;
   background-color: #ffffff;
@@ -271,7 +272,7 @@
   margin-top: 0px;
 }
 
-.text-card h1{
+.text-card h1 {
   font-family: SourceSansPro;
   font-size: 24.1px;
   line-height: 1.25;
@@ -279,7 +280,7 @@
   color: #261d40;
 }
 
-.text-card p{
+.text-card p {
   font-family: SourceSansPro;
   font-size: 14.1px;
   line-height: 1.43;
@@ -307,10 +308,10 @@
   padding-left: 35px;
   padding-top: 25px;
   box-shadow: 0px 10px 30px 0 rgba(67, 43, 135, 0.1);
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
-.testimoni-card p{
+.testimoni-card p {
   width: 284px;
   height: 107px;
   display: flex;
@@ -320,18 +321,18 @@
   font-family: SourceSansPro-It;
   font-size: 18.1px;
   line-height: 1.67;
-    font-style: italic;
+  font-style: italic;
 }
 
-.testimoni-card:nth-child(2n) p{
+.testimoni-card:nth-child(2n) p {
   color: #393545;
 }
 
-.testimoni-card:nth-child(2n-1) p{
+.testimoni-card:nth-child(2n-1) p {
   color: rgba(29, 57, 84, 0.3);
 }
 
-.name-box{
+.name-box {
   width: 110px;
   height: 44px;
   margin-left: 138px;
@@ -339,7 +340,7 @@
   position: absolute;
 }
 
-.name-box .name{
+.name-box .name {
   width: 100px;
   height: 14px;
   font-family: SourceSansPro;
@@ -349,7 +350,7 @@
   color: #261d40;
 }
 
-.name-box .name-desc{
+.name-box .name-desc {
   width: 94px;
   height: 13px;
   font-family: SourceSansPro;
@@ -358,7 +359,7 @@
   color: #393545;
 }
 
-.img-box{
+.img-box {
   width: 44px;
   height: 44px;
   margin-left: 248px;
@@ -366,7 +367,7 @@
   position: absolute;
 }
 
-.img-box img{
+.img-box img {
   width: 44px;
   height: 44px;
 }
@@ -384,14 +385,14 @@
   justify-content: center;
 }
 
-.article-title{
+.article-title {
   width: 208px;
   height: 54px;
   margin-top: 110px;
   position: absolute;
 }
 
-.the-new{
+.the-new {
   height: 23px;
   font-family: SourceSansPro;
   font-size: 32px;
@@ -403,8 +404,8 @@
   width: 37px;
   height: 2px;
   display: block;
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
   background-color: #ff7800;
   margin-top: 20px;
 }
@@ -415,7 +416,7 @@
   justify-content: center;
 }
 
-.article-card{
+.article-card {
   width: 270px;
   height: 357px;
   padding-bottom: 35px;
@@ -425,12 +426,12 @@
   margin-right: 30px;
 }
 
-.article-card img{
+.article-card img {
   width: 270px;
   height: 180px;
 }
 
-.article-card h1{
+.article-card h1 {
   margin-top: 31px;
   margin-left: 32px;
   font-family: SourceSansPro;
@@ -440,7 +441,7 @@
   color: #261d40;
 }
 
-.article-card p{
+.article-card p {
   margin-top: 20px;
   margin-left: 32px;
   margin-right: 32px;
@@ -451,7 +452,7 @@
   color: #393545;
 }
 
-.article-card a{
+.article-card a {
   margin-left: 173px;
   font-family: SourceSansPro;
   font-size: 14px;
@@ -460,7 +461,7 @@
   color: #432b87;
 }
 
-.article-btn{
+.article-btn {
   width: 190px;
   height: 50px;
   margin-top: 613px;
@@ -472,7 +473,7 @@
   border: none;
 }
 
-.lihat-artikel{
+.lihat-artikel {
   font-family: SourceSansPro;
   font-size: 10px;
   font-weight: 600;
@@ -481,7 +482,7 @@
   text-transform: uppercase;
 }
 
-#download-app{
+#download-app {
   width: 1349px;
   height: 261px;
   background-color: #fafafa;
@@ -501,7 +502,7 @@
   height: 261px;
 }
 
-.download-app-left h1{
+.download-app-left h1 {
   margin-top: 75px;
   margin-left: 191px;
   font-family: SourceSansPro;
@@ -510,7 +511,7 @@
   color: #261d40;
 }
 
-.download-app-left p{
+.download-app-left p {
   margin-top: 31px;
   margin-left: 191px;
   opacity: 0.8;
@@ -520,7 +521,7 @@
   color: rgba(57, 53, 69, 0.8);
 }
 
-.download-app-right button{
+.download-app-right button {
   width: 200px;
   height: 54px;
   margin-top: 104px;
@@ -551,13 +552,13 @@
   justify-content: center;
 }
 
-.footer-container img{
+.footer-container img {
   margin-bottom: 23px;
   width: 128px;
   height: 35px;
 }
 
-.footer-container h4{
+.footer-container h4 {
   width: 235px;
   height: 16px;
   opacity: 0.8;
@@ -574,7 +575,7 @@
   box-sizing: border-box;
 }
 
-.footer-items p{
+.footer-items p {
   font-family: Roboto;
   font-size: 14px;
   line-height: 1.71;
@@ -582,7 +583,7 @@
   color: #393545;
 }
 
-.footer-items h1{
+.footer-items h1 {
   margin-bottom: 27px;
   font-family: SourceSansPro;
   font-size: 17.9px;
@@ -591,7 +592,7 @@
   color: #261d40;
 }
 
-.footer-items i{
+.footer-items i {
   font-size: 20px;
   color: #393545;
   margin-right: 24px;
